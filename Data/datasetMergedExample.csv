@@ -1,0 +1,110 @@
+name,color_id,cmc,mana_cost,test,rarety,subtype,toughness
+Acorn Catapult,[],4.0,{4},"{1}, {T}: Acorn Catapult deals 1 damage to target creature or player. That creature's controller or that player puts a 1/1 green Squirrel creature token onto the battlefield.",Rare,[],
+Sol Ring,[],1.0,{1},Add 2 colorless mana to your mana pool. Tapping this artifact can be played as an interrupt.,Uncommon,[],
+Command Tower,[],0.0,,{T}: Add to your mana pool one mana of any color in your commander's color identity.,Common,[],
+Lightning Greaves,[],2.0,{2},"Equipped creature has shroud and haste.
+Equip {0}",Uncommon,['Equipment'],
+Spawnwrithe,['G'],3.0,{2}{G},"Trample
+Whenever Spawnwrithe deals combat damage to a player, put a token that's a copy of Spawnwrithe onto the battlefield.",Rare,['Elemental'],2
+Howling Mine,[],2.0,{2},"At the beginning of each player's draw step, if Howling Mine is untapped, that player draws a card.",Rare,[],
+Cultivate,['G'],3.0,{2}{G},"Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.",Common,[],
+Scavenging Ooze,['G'],2.0,{1}{G},"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.",Rare,['Ooze'],2
+Brainstorm,['U'],1.0,{U},"Draw three cards. Then, put any two cards from your hand on top of your library in any order.",Common,[],
+Vivid Grove,['G'],0.0,,"Vivid Grove enters the battlefield tapped with two charge counters on it.{T}: Add {G} to your mana pool.{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.",Uncommon,[],
+Minds Aglow,['U'],1.0,{U},"Join forces — Starting with you, each player may pay any amount of mana. Each player draws X cards, where X is the total amount of mana paid this way.",Rare,[],
+Trench Gorger,['U'],8.0,{6}{U}{U},"Trample
+When Trench Gorger enters the battlefield, you may search your library for any number of land cards, exile them, then shuffle your library. If you do, Trench Gorger's power and toughness each become equal to the number of cards exiled this way.",Rare,['Leviathan'],6
+Avatar of Woe,['B'],8.0,{6}{B}{B},"If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+{T}: Destroy target creature. It can't be regenerated.",Rare,['Avatar'],5
+Barren Moor,['B'],0.0,,"Barren Moor enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+Cycling {B} ({B}, Discard this card: Draw a card.)",Common,[],
+Simic Signet,"['G', 'U']",2.0,{2},"{1}, {T}: Add {G}{U} to your mana pool.",Common,[],
+Windfall,['U'],3.0,{2}{U},Each player discards his or her hand and draws cards equal to the greatest number a player discarded this way.,Uncommon,[],
+Orzhov Signet,"['B', 'W']",2.0,{2},"{1}, {T}: Add {W}{B} to your mana pool.",Common,[],
+Ruination Guide,['U'],3.0,{2}{U},"Devoid (This card has no color.)Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)Other colorless creatures you control get +1/+0.",Uncommon,"['Eldrazi', 'Drone']",2
+Temple of the False God,[],0.0,,{T}: Add {2} to your mana pool. Activate this ability only if you control five or more lands.,Uncommon,[],
+Vivid Meadow,['W'],0.0,,"Vivid Meadow enters the battlefield tapped with two charge counters on it.{T}: Add {W} to your mana pool.{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color to your mana pool.",Uncommon,[],
+Collective Voyage,['G'],1.0,{G},"Join forces — Starting with you, each player may pay any amount of mana. Each player searches his or her library for up to X basic land cards, where X is the total amount of mana paid this way, puts them onto the battlefield tapped, then shuffles his or her library.",Rare,[],
+Crescendo of War,['W'],4.0,{3}{W},"At the beginning of each upkeep, put a strife counter on Crescendo of War.
+Attacking creatures get +1/+0 for each strife counter on Crescendo of War.
+Blocking creatures you control get +1/+0 for each strife counter on Crescendo of War.",Rare,[],
+Artisan of Kozilek,[],9.0,{9},"When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.
+Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)",Uncommon,['Eldrazi'],9
+Skullclamp,[],1.0,{1},"Equipped creature gets +1/-1.
+Whenever equipped creature dies, draw two cards.
+Equip {1}",Uncommon,['Equipment'],
+Flusterstorm,['U'],1.0,{U},"Counter target instant or sorcery spell unless its controller pays {1}.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",Rare,[],
+Golgari Signet,"['B', 'G']",2.0,{2},"{1}, {T}: Add {B}{G} to your mana pool.",Common,[],
+Homeward Path,[],0.0,,{T}: Add {1} to your mana pool.{T}: Each player gains control of all creatures he or she owns.,Rare,[],
+Awakening Zone,['G'],3.0,{2}{G},"At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has ""Sacrifice this creature: Add {1} to your mana pool.""",Rare,[],
+Explosive Vegetation,['G'],4.0,{3}{G},"Search your library for up to two basic land cards, put them onto the battlefield tapped,then shuffle your library.",Uncommon,[],
+Reins of Power,['U'],4.0,{2}{U}{U},Untap all creatures you control and all creatures target opponent controls. You and that opponent each gain control of all creatures the other controls until end of turn. Those creatures gain haste until end of turn.,Rare,[],
+Attrition,['B'],3.0,{1}{B}{B},"{B}, Sacrifice a creature: Destroy target nonblack creature.",Rare,[],
+Butcher of Malakir,['B'],7.0,{5}{B}{B},"Flying
+Whenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.",Rare,"['Vampire', 'Warrior']",4
+Windborn Muse,['W'],4.0,{3}{W},"Flying
+Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.",Rare,['Spirit'],3
+Insurrection,['R'],8.0,{5}{R}{R}{R},Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.,Rare,[],
+Troll Ascetic,['G'],3.0,{1}{G}{G},"Troll Ascetic can't be the target of spells or abilities your opponents control.
+{1}{G}: Regenerate Troll Ascetic.",Rare,"['Troll', 'Shaman']",2
+Hydra Omnivore,['G'],6.0,{4}{G}{G},"Whenever Hydra Omnivore deals combat damage to an opponent, it deals that much damage to each other opponent.",Mythic,['Hydra'],8
+Chaos Warp,['R'],3.0,{2}{R},"The owner of target permanent shuffles it into his or her library, then reveals the top card of his or her library. If it's a permanent card, he or she puts it onto the battlefield.",Rare,[],
+Darksteel Ingot,[],3.0,{3},Indestructible{T}: Add one mana of any color to your mana pool.,Uncommon,[],
+Stranglehold,['R'],4.0,{3}{R},"Your opponents can't search libraries.
+If an opponent would begin an extra turn, that player skips that turn instead.",Rare,[],
+Alliance of Arms,['W'],1.0,{W},"Join forces — Starting with you, each player may pay any amount of mana. Each player puts X 1/1 white Soldier creature tokens onto the battlefield, where X is the total amount of mana paid this way.",Rare,[],
+Austere Command,['W'],6.0,{4}{W}{W},Choose two — Destroy all artifacts; or destroy all enchantments; or destroy all creatures with converted mana cost 3 or less; or destroy all creatures with converted mana cost 4 or greater.,Rare,[],
+Comet Storm,['R'],2.0,{X}{R}{R},"Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)Choose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.",Mythic,[],
+Eternal Witness,['G'],3.0,{1}{G}{G},"When Eternal Witness comes into play, you may return target card from your graveyard to your hand.",Uncommon,"['Human', 'Shaman']",1
+False Prophet,['W'],4.0,{2}{W}{W},"When False Prophet is put into a graveyard from the battlefield, exile all creatures.",Rare,"['Human', 'Cleric']",2
+Living Death,['B'],5.0,{3}{B}{B},"Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.",Rare,[],
+Wall of Denial,"['U', 'W']",3.0,{1}{W}{U},"Defender, flying, shroud",Uncommon,['Wall'],8
+Wall of Wonder,['U'],4.0,{2}{U}{U},"(Walls can't attack.)
+o2oUooU Wall of Wonder gets +4/-4 until end of turn and may attack this turn as though it weren't a Wall.",Rare,['Wall'],5
+Grave Pact,['B'],4.0,{1}{B}{B}{B},"Whenever a creature you control is put into a graveyard from play, each other player sacrifices a creature.",Rare,[],
+Fertilid,['G'],3.0,{2}{G},"Fertilid enters the battlefield with two +1/+1 counters on it.
+{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches his or her library for a basic land card and puts it onto the battlefield tapped. Then that player shuffles his or her library.",Common,['Elemental'],0
+Oblivion Ring,['W'],3.0,{2}{W},"When Oblivion Ring comes into play, remove another target nonland permanent from the game.
+When Oblivion Ring leaves play, return the removed card to play under its owner's control.",Common,[],
+Secluded Steppe,['W'],0.0,,"Secluded Steppe enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+Cycling {W} ({W}, Discard this card: Draw a card.)",Common,[],
+Simic Growth Chamber,"['G', 'U']",0.0,,"Simic Growth Chamber enters the battlefield tapped.When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.{T}: Add {G}{U} to your mana pool.",Common,[],
+Angelic Arbiter,['W'],7.0,{5}{W}{W},"Flying
+Each opponent who cast a spell this turn can't attack with creatures.
+Each opponent who attacked with a creature this turn can't cast spells.",Rare,['Angel'],6
+Garruk Wildspeaker,['G'],4.0,{2}{G}{G},"+1: Untap two target lands.
+-1: Put a 3/3 green Beast creature token onto the battlefield.
+-4: Creatures you control get +3/+3 and gain trample until end of turn.",Mythic,['Garruk'],
+Hull Breach,"['G', 'R']",2.0,{R}{G},Choose one — Destroy target artifact; or destroy target enchantment; or destroy target artifact and target enchantment.,Common,[],
+Trade Secrets,['U'],3.0,{1}{U}{U},"Target opponent draws two cards, then you draw up to four cards. That opponent may repeat this process as many times as he or she chooses.",Rare,[],
+Avatar of Slaughter,['R'],8.0,{6}{R}{R},All creatures have double strike and attack each turn if able.,Rare,['Avatar'],8
+Soul Snare,['W'],1.0,{W},"{W}, Sacrifice Soul Snare: Exile target creature that's attacking you or a planeswalker you control.",Uncommon,[],
+Hornet Queen,['G'],7.0,{4}{G}{G}{G},,Rare,['Insect'],2
+Aura Shards,"['G', 'W']",3.0,{1}{G}{W},"Whenever a creature enters the battlefield under your control, you may destroy target artifact or enchantment.",Uncommon,[],
+Buried Alive,['B'],3.0,{2}{B},Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.,Uncommon,[],
+Oblivion Stone,[],3.0,{3},"{4}, {T}: Put a fate counter on target permanent.
+{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",Rare,[],
+Celestial Force,['W'],8.0,{5}{W}{W}{W},"At the beginning of each upkeep, you gain 3 life.",Rare,['Elemental'],7
+Simic Sky Swallower,"['G', 'U']",7.0,{5}{G}{U},"Flying, trample
+Shroud (This creature can't be the target of spells or abilities.)",Rare,['Leviathan'],6
+Vivid Crag,['R'],0.0,,"Vivid Crag enters the battlefield tapped with two charge counters on it.{T}: Add {R} to your mana pool.{T}, Remove a charge counter from Vivid Crag: Add one mana of any color to your mana pool.",Uncommon,[],
+Skyshroud Ranger,['G'],1.0,{G},{T}: You may put a land card from your hand into play. Play this ability only any time you could play a sorcery.,Common,['Elf'],1
+Fellwar Stone,[],2.0,{2},,Uncommon,[],
+Mortify,"['B', 'W']",3.0,{1}{W}{B},Destroy target creature or enchantment.,Uncommon,[],
+Mortivore,['B'],4.0,{2}{B}{B},"Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.
+{B}: Regenerate Mortivore.",Rare,['Lhurgoyf'],*
+Oblation,['W'],3.0,{2}{W},"The owner of target nonland permanent shuffles it into his or her library, then draws two cards.",Rare,[],
+Storm Herd,['W'],10.0,{8}{W}{W},"Create X 1/1 white Pegasus creature tokens with flying, where X is your life total.",Rare,[],
+Vivid Creek,['U'],0.0,,"Vivid Creek enters the battlefield tapped with two charge counters on it.{T}: Add {U} to your mana pool.{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.",Uncommon,[],
+Wild Ricochet,['R'],4.0,{2}{R}{R},You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.,Rare,[],
+Dread Cacodemon,['B'],10.0,{7}{B}{B}{B},"When Dread Cacodemon enters the battlefield, if you cast it from your hand, destroy all creatures your opponents control, then tap all other creatures you control.",Rare,['Demon'],8
+Scythe Specter,['B'],6.0,{4}{B}{B},"Flying
+Whenever Scythe Specter deals combat damage to a player, each opponent discards a card. Each player who discarded a card with the highest converted mana cost among cards discarded this way loses life equal to that converted mana cost.",Rare,['Specter'],4
+Vow of Wildness,['G'],3.0,{2}{G},"Enchant creature
+Enchanted creature gets +3/+3, has trample, and can't attack you or a planeswalker you control.",Uncommon,['Aura'],
+Dark Hatchling,['B'],6.0,{4}{B}{B},"Flying
+When Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated.",Rare,['Horror'],3
