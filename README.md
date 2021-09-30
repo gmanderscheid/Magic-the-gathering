@@ -1,4 +1,4 @@
-# MagicTheGathering
+# Magic-the-gathering
 
 Magic was the first massive trading card game, starting in 1993 it has approximately twenty million players as of 2015, and over twenty billion Magic cards produced in the period from 2008 to 2016, during which time it grew in popularity. 
 
